@@ -1,0 +1,37 @@
+def return_curr_list():
+    currency_list = [
+
+        "EUR",
+        "USD",
+        "JPY",
+        "BGN",
+        "CZK",
+        "DKK",
+        "GBP",
+        "HUF",
+        "PLN",
+        "RON",
+        "SEK",
+        "CHF",
+        "ISK",
+        "NOK",
+        "HRK",
+        "RUB",
+        "TRY",
+        "AUD",
+        "BRL",
+        "CAD",
+        "CNY",
+        "HKD",
+        "IDR",
+        "INR",
+        "KRW",
+        "MXN",
+        "MYR",
+        "NZD",
+        "PHP",
+        "SGD",
+        "THB",
+        "ZAR"
+    ]
+    return(currency_list)
