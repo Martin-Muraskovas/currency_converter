@@ -16,8 +16,7 @@
 - This version was developed to be CLI based.
 - This version uses the freecurrencyapi API to retrieve live currency conversion rates.
 - All inputs have input validation.
-- Example Output:
-<br>
+- Example Output:<br>
 ![input_validations.png](input_validations.png)
 
 ### Version 0.2
