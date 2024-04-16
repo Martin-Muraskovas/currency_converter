@@ -23,6 +23,7 @@
 - In progress.
 
 ### Plans for future features:
+* **Priority:** Ensure that outputted currencies such as the Japanese Yen can only be outputted as whole numbers as they do not have decimals.
 * Display a list of available currencies that can be used for conversions.
 * Option to fetch exchange rates for multiple currencies.
 * Create a user interface using the Tkinter library.
