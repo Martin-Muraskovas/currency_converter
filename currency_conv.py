@@ -16,10 +16,13 @@ def convert_inputs(convert_from: str, convert_amount: float, convert_to: str):
     print(f"{convert_amount} {convert_from} is {conversion:.2f} {convert_to}")
 
 
-def main():
+def main() -> None:
     convert_from_valid = False
     convert_amount_valid = False
     convert_to_valid = False
+    convert_from = ""
+    convert_amount = None
+    convert_to = ""
 
     while not convert_from_valid:
         convert_from: str = input("What currency would you like to convert from?")
